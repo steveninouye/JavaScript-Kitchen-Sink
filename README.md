@@ -2,7 +2,7 @@
 
 The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
 
-##Objectives##
+## Objectives
 
 1.  Create a new project folder and connect it to a github repository. Copy this README.md file into it.
 2.  Create an index.html file and an app.js file and link the two together.
@@ -23,5 +23,6 @@ The objective of this lab assignment is to practice using the fundamentals of Ja
 17. Call the getLength function, passing 'Hello World' as the argument. Store the returned result of that function in a variable.
 18. Check the number in the variable from the previous objective. If the number is even, display 'The world is nice and even!' in the developer console. Otherwise if the number is odd, display 'The world is an odd place!' in the developer console.
 
-##Submission##
+## Submission
+
 Commit and your changes and push to github.
